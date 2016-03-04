@@ -45,7 +45,7 @@ Don't keep your thoughts to yourself: please talk frequently with your instructo
 
 ### Submit an outline
 
-Please submit a consice plan of your project
+Please submit a concise plan of your project
 - Main problem to solve
 - Description of dataset, and you will you obtain it
 - Hypothesis
